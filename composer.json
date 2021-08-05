@@ -33,7 +33,6 @@
   "config": {
     "preferred-install": "dist"
   },
-  "prefer-stable": true,
   "extra": {
         "laravel": {
             "providers": [
