@@ -30,9 +30,6 @@
       "DvK\\Laravel\\Vat\\": "src/"
     }
   },
-  "config": {
-    "preferred-install": "dist"
-  },
   "extra": {
         "laravel": {
             "providers": [
