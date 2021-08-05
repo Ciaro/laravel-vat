@@ -12,7 +12,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/Ciaro/laravel-vat"
+      "url": "https://github.com/Ciaro/vat"
     }
   ],
   "require": {
