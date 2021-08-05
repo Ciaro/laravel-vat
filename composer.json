@@ -30,6 +30,7 @@
       "DvK\\Laravel\\Vat\\": "src/"
     }
   },
+  "minimum-stability": "dev",
   "extra": {
         "laravel": {
             "providers": [
